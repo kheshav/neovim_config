@@ -18,6 +18,7 @@ runtime customsettings/telescope.vim
 runtime customsettings/nerdtree.vim
 runtime customsettings/gitgutter.vim
 runtime customsettings/coc.vim
+runtime customsettings/py-docstring.vim
 EOL
 
 ln -s ~/.config/nvim/customsettings/coc-settings.json ~/.config/nvim/coc-settings.json

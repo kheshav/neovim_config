@@ -9,4 +9,5 @@ Plug 'tpope/vim-fugitive'
 Plug 'junegunn/gv.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'heavenshell/vim-pydocstring', { 'do': 'make install' }
 call plug#end()

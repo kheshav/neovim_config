@@ -28,3 +28,6 @@ git clone https://github.com/vim-airline/vim-airline.git ~/.local/share/nvim/sit
 
 mkdir -p ~/.local/share/nvim/site/pack/airblade/start/
 git clone https://github.com/airblade/vim-gitgutter.git ~/.local/share/nvim/site/pack/airblade/start/vim-gitgutter
+
+mkdir -p ~/.local/share/nvim/site/pack/indentLine/start/
+git clone https://github.com/Yggdroot/indentLine.git ~/.local/share/nvim/site/pack/indentLine/start/

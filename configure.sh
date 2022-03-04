@@ -19,6 +19,7 @@ runtime customsettings/nerdtree.vim
 runtime customsettings/gitgutter.vim
 runtime customsettings/coc.vim
 runtime customsettings/py-docstring.vim
+runtime customsettings/prettier.vim
 EOL
 
 ln -s ~/.config/nvim/customsettings/coc-settings.json ~/.config/nvim/coc-settings.json

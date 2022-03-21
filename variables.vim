@@ -33,6 +33,6 @@ set completeopt=menuone,noinsert,noselect
 set signcolumn=yes
 set updatetime=100
 set shada="None"
-
+set conceallevel=0
 
 let mapleader = " "

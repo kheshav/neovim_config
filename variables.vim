@@ -34,5 +34,6 @@ set signcolumn=yes
 set updatetime=100
 set shada="None"
 set conceallevel=0
+set cursorline
 
 let mapleader = " "
